@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1672951150 source:c:\users\rodri\onedrive\documentos\ws-codeblocks\problemas\par_impar\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1672887214 source:c:\users\rodri\onedrive\documentos\ws-codeblocks\problema_circulo\main.c
+	<stdio.h>
+	<math.h>
+

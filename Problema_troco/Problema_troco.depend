@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1672886255 source:c:\users\rodri\onedrive\documentos\ws-codeblocks\problema_troco\main.c
+	<stdio.h>
+	<stdlib.h>
+
